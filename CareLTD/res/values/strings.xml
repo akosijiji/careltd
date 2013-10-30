@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CareLTD</string>
+    <string name="action_settings">Settings</string>
+    <string name="view">House &amp; Land</string>
+    <string name="highest">Highest Price</string>
+    <string name="lowest">Lowest Price</string>
+    <string name="mostrecent">Most Recent</string>
+    <string name="back">Back</string>
+    <string name="filter">Filter</string>
+    <string-array name="home_menu">
+        <item>Home</item>
+        <item>Guide</item>
+        <item>Contact</item>
+        <item>Info</item>
+    </string-array>
+    <string name="ok">Okay</string>
+    <string name="contact">Contact</string>
+    <string name="location">Location</string>
+    <string name="guide">Real Estate Guide</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search</string>
+	<string name="info">Info</string>
+	<string name="whoweare">Who Are We?</string>
+	<string name="aboutus">Finding just the right home for your family is about finding the right community balance. 
+	    Location and distance to schools, shops and community facilities are all considerations that we can assist 
+	    you in and help you to find the perfect property solution. \n
+		Our large selection of properties suit the first home buyer as well investors looking to develop a property 
+		portfolio in the south eastern region of Melbourne. We also provide opportunities for second home buyers with 
+		unique and designer requirements.\n
+		We represent vendors and buyers from all Melbourne locations and can easily help you to build a successful 
+		marketing campaign to sell your property. \n
+		With a strong community ethic and a desire to offer the best in personalized service, CARE provides a benchmark 
+		of best practice within the region.
+		\n\n
+		Directors of CARE John Rodriguez and John Auricchio invite you to enjoy a positive real estate experience.
+	</string>
+	<string name="johna">“Having been in the real-estate industry for over 30 years I have seen vast changes to the 
+	    outlying areas of Melbourne. It’s an exciting prospect to be able to offer new homes, house and land packages 
+	    and building prospects to family’s particularly when it’s their first home. It’s always a unique situation and 
+	    to see the joy that a simple transaction can bring to people’s lives keeps me up and running especially on freezing 
+	    mornings viewing potential house locations when the roads aren’t even in!” \n
+	    John is highly experienced in construction techniques and has a keen eye for quality
+		construction methods, plans and designing techniques. He has worked as a Sales Manager for Ray White Real Estate, N.R Reid 
+		and Co and United Building Group Pty Ltd, all servicing the south eastern region of Melbourne. He is a fully licensed 
+		real-estate agent. In John’s spare time he loves to camp, the 5 star way of course!</string>
+	<string name="johnr">“Having firsthand experience of moving from the Philippines to Australia during the late 90s, 
+	    I know how hard it is to get established. Trying to find professionals to trust and help you make the big decisions 
+	    seemed an impossible task. That’s why we have developed CARE; to offer a trusted resource for new Australians, 
+	    and a place to communicate their needs and help them find a place to call home” \n
+	    A licensed real-estate agent in the Philippines, John established his own real-estate business from 1990-1998. 
+	    He then moved to Australia where he has enjoyed an entrepreneurial career path with multiple franchise and supply 
+	    links with large multi-national brands including Schweppes, and Yakult.
+		Subsequently he has established a marketing firm that sold off-the-plan housing solutions which has led him into 
+		his partnership with John Auricchio. We don’t believe John has any spare time!</string>
+	<string name="contactdetails">We’d love to hear from you!\n\nGet in touch with the team from CARE for professional, caring and experienced real-estate advice and expertise. 
+	    We’re not in for the hard-sell, we are here to connect you with the right property choices that fit your lifestyle 
+	    and budget. \n\nCall us now on 03-8786-5007 for a friendly chat to see how we can help you turn your hard earned money into a new 
+	    home, or build on your current investment potential.</string>
+	<string name="realestateguide" formatted="false">
+	    10 Tips for Buying and Selling Homes in 2013
+	    \n
+	    \n1. Get off the sidelines
+	    \nFor good-credit buyers waiting for the market to hit bottom, the moment has passed, but the good news is home prices 
+	    and interest rates are still quite low. For sellers waiting for market improvements, they\'re here. Stretch, 
+	    take a deep breath and jump back in the game if your budget allows.
+	    \nThe rules have changed a bit, however, and lenders want buyers to put a little more skin in the game. So expect to 
+	    make higher down payments than in those pre-bust years. Another caution: Sellers will likely find that buyers have a 
+	    harder time qualifying for mortgages.
+	    \n2. Screen your buyers
+	    \nSave your time and weed out the tire-kickers. Make sure potential buyers are preapproved, which means they\'ve already 
+	    had their credit and employment checked thoroughly to determine how much they can borrow. Have your agent call their loan 
+	    officer. Serious borrowers will find this acceptable because it shows they are ready to act.
+	    \n3. Create a good impression
+	    \nThese days, most folks start their home search online, so the number of murky, drab photos posted on website listings 
+	    is baffling. Consider hiring professional photographers or videographers to create an optimal presentation, particularly 
+	    for high-dollar spreads. Winter exteriors might show sun shining off the snow, spring shots could sport blossoms, 
+	    summer shots ought to spotlight that shimmering pool or well-groomed lawn, and fall photos might show vibrant leaves.
+	    \nThink vividly, but not deceptively. Shots should accurately reflect the depth of rooms. Interiors should show bright, 
+	    uncluttered spaces and highlight the best outdoor views. Remove a few furnishings for your photo session and brighten up 
+	    or repaint dark rooms to make them look less cluttered.
+	    \n4. Renovate wisely
+	    \nIn fact, the average remodeling payback in the past 10 years has dropped from 82% in 2003 to 60.6% this year, 
+	    according to Remodeling Magazine.
+	    \nBringing up the rear are a dedicated home office (43.6%) and adding a sunroom (46.5%). Topping the list are steel 
+	    entry-door replacements (86% return) followed by fiber-cement exterior siding (79%).Sellers routinely underestimate 
+	    the positive impact of simple home improvements such as repainting and minor fix-ups, real-estate agents say.
+	    \n5. Build your team wisely
+	    \nVet the help. This goes for such crucial players as your agent (interview at least three), your inspector, appraiser, 
+	    title company and, if applicable, your attorney, surveyor or even energy auditor (a good idea if you\'re buying a large 
+	    home). Look them up at the Better Business Bureau, Angie\'s List or any such websites where service reviews can be found.
+	    \n6. Don\'t let the heart lead the head
+	    \nNo clinging to false hopes, please. Win the game of \"the price is right\" by pricing your house correctly from day one. 
+	    Find a proven, seasoned agent and follow his or her lead on listing-price suggestions. Pricing should be based on 
+	    comparable sales, specific neighborhood time-on-the-market trends, an up-to-date appraisal and the home\'s inherent 
+	    pros and cons. No amount of marketing hocus-pocus or staging can overcome a bloated price tag. Cut your price if no 
+	    serious offers emerge in the first 30 to 45 days. It\'s not 2006 again.
+	    \n7. Open your marketing options
+	    \nMarket your home creatively and in varied venues, be they virtual or terra firma. Sellers are tapping into Twitter, 
+	    Facebook, Pinterest, LinkedIn and any number of sites to stimulate buyers\' interest.
+	    \nFor example, a blog called \"What you\'d like about living in my town,\" might cover culture, education and other 
+	    quality-of-life amenities — followed by a pitch for your home, of course. Social media, unlike listings on the 
+	    multiple listing service or newspaper ads, allow for quick feedback and interaction. You might also suggest that 
+	    your agent market your home to foreigners via overseas property sites or local partners abroad and to people relocating 
+	    because of their job.</string>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     >
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:background="#f0b803"
+        android:padding="5dp" >
+        
+        <Button 
+            android:id="@+id/btBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+        	android:layout_alignParentTop="true"
+            android:text="@string/back"
+            android:textColor="#987b05"
+            android:background="@drawable/custom_button" />
+        
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="20sp"
+            android:drawableLeft="@drawable/info_small"
+            android:textStyle="bold"
+            android:text="@string/info" />
+        
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/whoweare"
+        android:paddingLeft="10dp"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_gravity="center_vertical|right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="@string/aboutus" />
+    
+ 	<ImageView 
+ 	    android:layout_gravity="center"
+ 	    android:paddingLeft="10dp"
+        android:scaleType="fitXY"
+        android:id="@+id/ivInfo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/info" />
+ 	
+ 	<TextView
+ 	    android:bufferType="spannable"
+ 	    android:paddingLeft="10dp"
+ 	    android:paddingRight="10dp"
+ 	    android:id="@+id/tvJA"
+ 	    android:layout_width="wrap_content"
+ 	    android:layout_height="wrap_content" />
+    
+    <ImageView 
+        android:layout_gravity="center"
+        android:paddingLeft="10dp"
+        android:scaleType="fitXY"
+        android:id="@+id/ivInfo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/info" />
+    
+    <TextView
+        android:bufferType="spannable"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:id="@+id/tvJR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
+</ScrollView>
